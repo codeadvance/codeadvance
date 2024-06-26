@@ -3,9 +3,14 @@
 - 🌱 I’m currently learning data science/machine learning
 - 💞️ I’m looking to collaborate on projects in common
 - 📫 How to reach me by https://www.linkedin.com/in/cindy-loves-mega-data/
-
 - 😄 Pronouns: sher/her
 - ⚡ Fun fact: I am adaptable. If you feed me food, you make my day great
+
+## Interest
+I like meditation. This helps me to enhance my mental wellness. 
+I also like to help others who needs guidance in mental health. 
+https://www.superprof.ca/ir/31763059-4448d8
+
 
 ##
 ![image 1 (1)](https://github.com/codeadvance/profolio/assets/132302205/13e94edf-c7a5-4a54-9319-b004a16c0176)
@@ -60,6 +65,7 @@ Website: https://cindylo.notion.site/Hello-I-m-Cindy-5d06be451dcc42adb63f3b20cf1
 ▪ Toronto Institute of Data Science and Technology |  Data Science 2024
 ▪ University of New Brunswick | Bachelor of Science, Civil Engineering 2014 - 2019
 ▪ University of New Brunswick | Diploma, Entrepreneurship Business 2014 - 2019
+
 
 
 <!---
