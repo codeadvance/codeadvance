@@ -41,12 +41,17 @@ Website: https://cindylo.notion.site/Hello-I-m-Cindy-5d06be451dcc42adb63f3b20cf1
 • Performed quality control on 100+ multi-million projects to ensuring invoices were reconciled with the capital budgets to prevent over-budget spending\
 • Design, implement, test and document new features of infrastructure through computer systems\
 
-**Data Consultant & Technician @ AECOM**
+**Data Consultant & Technician | AECOM**
 
 ▪Trained interns and efficiently multitasked by taking on the responsibilities of multiple roles during a staff shortage. Successfully led the team to meet project deadlines, resulting in a 30% increase in project completion rate.
 ▪Coordinating between construction and environmental departments to ensure projects met deadlines and budgets, resulting in increased KPI efficiency by 50% and a 20% increase in project approval rates.
 ▪Conducted rigorous quality control for over 100 infrastructure projects, leading to a 30% reduction in billing discrepancies.
 ▪Implemented data visualization dashboards to monitor project progress, which improved reporting accuracy by 30%.
+
+**Developer | Automated Media**
+▪Enhanced production efficiency by automating workflows to integrate AI-generated voiceovers with visual content.
+▪Implemented automated workflows to integrate AI-generated voiceovers with visual content.
+▪Reduced data processing time by 50% improved scalability, and significantly increased content production efficiency.
 
 ## Projects
 ### Data-Driven Using MYSQL & Microsoft Power BI To Visualize Company's Overall Revenue
