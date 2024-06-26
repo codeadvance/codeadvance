@@ -6,7 +6,7 @@
 - 😄 Pronouns: sher/her
 - ⚡ Fun fact: I am adaptable. If you feed me food, you make my day great
 - 🧘🏻 Interest: I like meditation. This helps me to enhance my mental wellness. 
-I also like to help others who needs guidance in mental health. My mentor guidance link- https://www.superprof.ca/ir/31763059-4448d8
+I also like to help others who needs guidance in mental health. Mental guidance link- https://www.superprof.ca/ir/31763059-4448d8
 
 ##
 ![image 1 (1)](https://github.com/codeadvance/profolio/assets/132302205/13e94edf-c7a5-4a54-9319-b004a16c0176)
