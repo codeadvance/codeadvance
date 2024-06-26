@@ -2,7 +2,7 @@
 - 👀 I’m interested in work opportunities/projects
 - 🌱 I’m currently learning data science/machine learning
 - 💞️ I’m looking to collaborate on projects in common
-- 📫 How to reach me by https://www.linkedin.com/in/cindy-l-8bb871a6/
+- 📫 How to reach me by https://www.linkedin.com/in/cindy-loves-mega-data/
 
 - 😄 Pronouns: sher/her
 - ⚡ Fun fact: I am adaptable. If you feed me food, you make my day great
