@@ -54,16 +54,15 @@ Website: https://cindylo.notion.site/Hello-I-m-Cindy-5d06be451dcc42adb63f3b20cf1
 ▪Reduced data processing time by 50% improved scalability, and significantly increased content production efficiency.
 
 ## Projects
+### Automated Video Compiling And Video Creation In Python
+![image](https://github.com/codeadvance/profolio/assets/132302205/fac3b8a0-a1df-4817-b581-e175950c3a28)
+
 ### Data-Driven Using MYSQL & Microsoft Power BI To Visualize Company's Overall Revenue
 ![image](https://github.com/codeadvance/profolio/assets/132302205/d0c9739a-cd5a-4e6e-9b25-e0b27e6206c2)
 
 ###  Neural Network Machine Learning Image Processing
 [Neural_Network_Machine_Learning_Image_Processing](https://github.com/codeadvance/Neural_Network_Machine_Learning_Image_Processing) 
 ![Image](https://github.com/codeadvance/Neural_Network_Machine_Learning_Image_Processing/blob/main/puppies.PNG)
-
-### Automated Video Compiling And Video Creation In Python
-![image](https://github.com/codeadvance/profolio/assets/132302205/fac3b8a0-a1df-4817-b581-e175950c3a28)
-
 
 ### Education
 ▪ Toronto Institute of Data Science and Technology |  Data Science 2024
