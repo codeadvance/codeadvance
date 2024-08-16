@@ -59,7 +59,7 @@ Website: https://cindylo.notion.site/Hello-I-m-Cindy-5d06be451dcc42adb63f3b20cf1
 
 ▪ Neural Network Machine Learning Image Processing
 [Neural_Network_Machine_Learning_Image_Processing](https://github.com/codeadvance/Neural_Network_Machine_Learning_Image_Processing) 
-[Image](https://github.com/codeadvance/Neural_Network_Machine_Learning_Image_Processing/blob/main/puppies.PNG)
+![Image](https://github.com/codeadvance/Neural_Network_Machine_Learning_Image_Processing/blob/main/puppies.PNG)
 
 ### Automated Video Compiling And Video Creation In Python
 ![image](https://github.com/codeadvance/profolio/assets/132302205/fac3b8a0-a1df-4817-b581-e175950c3a28)
