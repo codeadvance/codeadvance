@@ -57,7 +57,7 @@ Website: https://cindylo.notion.site/Hello-I-m-Cindy-5d06be451dcc42adb63f3b20cf1
 ### Data-Driven Using MYSQL & Microsoft Power BI To Visualize Company's Overall Revenue
 ![image](https://github.com/codeadvance/profolio/assets/132302205/d0c9739a-cd5a-4e6e-9b25-e0b27e6206c2)
 
-▪ Neural Network Machine Learning Image Processing
+###  Neural Network Machine Learning Image Processing
 [Neural_Network_Machine_Learning_Image_Processing](https://github.com/codeadvance/Neural_Network_Machine_Learning_Image_Processing) 
 ![Image](https://github.com/codeadvance/Neural_Network_Machine_Learning_Image_Processing/blob/main/puppies.PNG)
 
