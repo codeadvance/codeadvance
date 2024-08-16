@@ -67,6 +67,10 @@ Website: https://cindylo.notion.site/Hello-I-m-Cindy-5d06be451dcc42adb63f3b20cf1
 ▪ University of New Brunswick | Bachelor of Science, Civil Engineering 2014 - 2019
 ▪ University of New Brunswick | Diploma, Entrepreneurship Business 2014 - 2019
 
+**Bold** and _Italic_ and `Code` text
+
+[Link](https://github.com/codeadvance/Neural_Network_Machine_Learning_Image_Processing) and ![Image](src)
+
 
 
 <!---
