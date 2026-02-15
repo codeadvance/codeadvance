@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Cindy
 - 👀 I’m interested in work opportunities/projects
-- 🌱 I’m currently analyzing current job trends, market and demands
 - 💞️ I’m looking to collaborate on projects in common
-- 📫 How to reach me by https://www.linkedin.com/in/cindy-loves-mega-data/
 - 😄 Pronouns: sher/her
 - ⚡ Fun fact: I am adaptable. If you feed me food, you make my day great
 - 🧘🏻 Interest: I like meditation. This helps me to enhance my mental wellness. 
