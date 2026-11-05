@@ -9,7 +9,7 @@ I also like to help others who needs guidance in mental health.
 ##
 ![image 1 (1)](https://github.com/codeadvance/profolio/assets/132302205/13e94edf-c7a5-4a54-9319-b004a16c0176)
 
-Website: https://cindylo.notion.site/Hello-I-m-Cindy-5d06be451dcc42adb63f3b20cf1b263d
+
 
 # Data Scientist
 #### Technical Skills: 
