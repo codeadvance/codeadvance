@@ -2,7 +2,7 @@
 - 👀 I’m interested in work opportunities/projects
 - 💞️ I’m looking to collaborate on projects in common
 - 😄 Pronouns: sher/her
-- ⚡ Fun fact: I am adaptable. If you feed me food, you make my day great
+- ⚡ Fun fact: I like video games and binge watching videos. I am a Snorlex. I can sleep all day long, 
 - 🧘🏻 Interest: I like meditation. This helps me to enhance my mental wellness. 
 I also like to help others who needs guidance in mental health. 
 
@@ -63,9 +63,9 @@ Website: https://cindylo.notion.site/Hello-I-m-Cindy-5d06be451dcc42adb63f3b20cf1
 ![Image](https://github.com/codeadvance/Neural_Network_Machine_Learning_Image_Processing/blob/main/puppies.PNG)
 
 ### Education
-▪ Toronto Institute of Data Science and Technology |  Data Science 2024
-▪ University of New Brunswick | Bachelor of Science, Civil Engineering 2014 - 2019
-▪ University of New Brunswick | Diploma, Entrepreneurship Business 2014 - 2019
+▪ Toronto Institute of Data Science and Technology |  Data Science
+▪ University of New Brunswick | Bachelor of Science, Engineering
+▪ University of New Brunswick | Diploma, Entrepreneurship Business
 
 
 <!---
